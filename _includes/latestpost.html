@@ -1,0 +1,5 @@
+<div class="latestpost">
+    {% for post in site.posts limit:3 %}
+        <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}<span></a>, by {{ post.author }}</span></p>
+    {% endfor %}
+</div>

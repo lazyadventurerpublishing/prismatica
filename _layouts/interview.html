@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="interview">
+    <div class="postinfo">
+        <h2 class="post">{{ page.title }}</h2>
+	    <p>Written by: {{ page.author }}</p>
+	    <p><strong>Character featured:</strong> {{ page.characters }}</p>
+	    <p class="meta"><i>{{ page.date | date_to_string }}</i></p>    
+	</div>
+
+    <div class="post">
+      {{ content }}
+    </div>
+    
+    <!-- Post comments -->
+	<div class="notecomments">
+		{% include disqus.html %}	 
+	</div>
+</div>

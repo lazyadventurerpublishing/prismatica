@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div class="news">
+	<h2 class="post">{{ page.title }}</h2>
+	<div class="newsinfo">    
+		<p><strong>Written by:</strong> {{ page.author }}</p>
+	    <p><strong>Characters featured:</strong> {{ page.characters }}</p>
+      <p><strong>Original thread:</strong> {{ page.thread }}</p>
+	    <p class="meta"><i>{{ page.date | date_to_string }}</i></p>
+	</div>
+
+    <div class="post">
+      {{ content }}
+    </div>
+    
+    <!-- Post comments -->
+	<div class="notecomments">
+		{% include disqus.html %}	 
+	</div>
+</div>

@@ -6,7 +6,7 @@ author: Andrew Olvera
 date: 2018-08-16
 ---
 
-No matter how early you arrive at an airport, your time spent there always seems spent in a haze where everything is a blur. You'll walk, or jog alongside people you'll never see again. You'll sit beside and talk amongst others, never exchanging names because it is the land of the temporary. There's a feeling you might get, a sort of disorientation, when within the confines of an airport. It's called a liminal space, where reality just feels off. There are others like it. Hotels late at night, parking garages, or rest stops along a highway with no sign of civilization in either direction. Liminal space is the space in between; it's in the middle of "here" and "there", betwixt point A and point B.
+No matter how early you arrive at an airport, your time spent there always seems spent in a haze where everything is a blur. You'll walk, or jog alongside people you'll never see again. You'll sit beside and talk amongst others, never exchanging names because it is the land of the temporary. There's a feeling you might get, a sort of disorientation, when within the confines of an airport. It's called a liminal space, where reality just feels *off*. There are others like it. Hotels late at night, parking garages, or rest stops along a highway with no sign of civilization in either direction. Liminal space is the space in between; it's in the middle of "here" and "there", betwixt point A and point B.
 
 So there I stood, by the desk for my flight's gate in a sparse airport in the late evening, feeling a little out of breath from sprinting in fear that my plane would take off without me, only to discover it'd been delayed another forty-five minutes. Gathering myself, I slunk to one of the nearest seats, sat down and pulled out my phone, trying to ignore that overwhelming sense of off-ness.
 
@@ -48,13 +48,13 @@ Dark, heavy clouds sprawled out over the entirety of the city of Eugene and the 
 
 Stardust stared me down with a look of judgment, as if she somehow knew I was scouring Facebook for anyone named Elijah who lived in Denver. I had come up empty and closed the browser in a huff of defeat, opting to finish the last few sips of my coffee and get ready for work at my boring office job for an insurance company. 
 
-Later that day, while I was logging in numbers, I caught myself thinking about him again. I felt like the stereotypical lovesick schoolboy pining away for the mysterious new kid. I guess, in a way, I was, but there was something peculiar about it. I had begun to see him, though it never was him. I’d see him walk across aisles in Target, late after I'd gotten off work when there were very few customers, or in the gas station when I would grab snacks to eat while binge-watching my newest show. Brief glimpses of that fiery red hair flashed in my peripheral vision but every time I'd turn to look, it was gone.
+Later that day, while I was logging in numbers, I caught myself thinking about him again. I felt like the stereotypical lovesick schoolboy pining away for the mysterious new kid. I guess, in a way, I was, but there was something peculiar about it. I had begun to see him, though it never *was* him. I’d see him walk across aisles in Target, late after I'd gotten off work when there were very few customers, or in the gas station when I would grab snacks to eat while binge-watching my newest show. Brief glimpses of that fiery red hair flashed in my peripheral vision but every time I'd turn to look, it was gone.
 
 *	*	*
 
 By time the week was done, I'd practically forgotten about Elijah. And about his stupid, beautiful hair. And about his stupid, cute freckles. And his stupid, amazing bone structure. The moment I had purged every stupid thing about him from my brain was while walking through the doors of the laundromat I frequented, which was convenient, because it was also the exact moment I finally laid eyes on him again. For real. In the flesh. Standing right in front of me. Doing his laundry. Looking stupid and beautiful just like I remembered. In the instinctive manner you do when someone walks in a room, he looked up to see me. His face broke slowly into a smile and I looked at him with my jaw agape.
 
-"Miguel?" he said, and my stomach erupted in butterflies. He said my name.
+"Miguel?" he said, and my stomach erupted in butterflies. *He said my name*.
 
 "H-How..." I muttered, still not entirely sure that I wasn't dreaming.
 
@@ -84,7 +84,7 @@ Elijah and I would go on to share our time spent in that laundromat for the foll
 
 It quickly became the thing I most looked forward to in my week. I even found myself telling my cats about them as I drifted off to sleep. Stardust still thought me too much for her to deal with, still giving me those looks of judgment, only now from the pillow beside mine. Cleopatra, on the other hand, clung to every word. She was always the one who indulged me in idle gossip, but Rainbow and Yogurt were only there for butt scratches. And then there was Jonathan, who stayed up long into the night, causing a ruckus off in the living room. His nails clattered against the hardwood flooring, and every so often I'd hear him crash into something. 
 
-Elijah and I learned much about each other in those weeks of summer. He was going to school to become a veterinarian, knew enough Klingon to be embarrassed, liked pineapple on pizza, and had a collection of poems that he'd written daily since he was six. Each laundry day, I found myself falling deeper in love with him to a point I'd never thought possible before. And I poured my heart out to him. I told him things I never thought possible. That I was still afraid of the dark, was completely incapable of telling someone “no”, thought Santa was real well into my adolescence, and actually liked the Star Wars prequels.
+Elijah and I learned much about each other in those weeks of summer. He was going to school to become a veterinarian, knew enough Klingon to be embarrassed, liked pineapple on pizza, and had a collection of poems that he'd written daily since he was six. Each laundry day, I found myself falling deeper in love with him to a point I'd never thought possible before. And I poured my heart out to him. I told him things I never thought possible. That I was still afraid of the dark, was completely incapable of telling someone “no”, thought Santa was real well into my adolescence, and actually liked the *Star Wars* prequels.
 
 It broke my heart, then, on a particularly rainy, Oregonian afternoon, when Elijah didn't speak those parting words at the doorway of the empty laundromat.
 
@@ -104,7 +104,7 @@ I stood up from the old, wooden bench, and approached him, barely able to form w
 
 "That's...not what I meant," he said, then paused in thought. "You know those places, like this one here, where things feel kinda strange?" My confusion must've been apparent, because he continued.
 
-"It's called a 'liminal space'," he told me, "A place in between places. Where their existence is more about where you'll be next or where you were before. Do you get what I mean?"
+"It's called a '*liminal space*'," he told me, "A place in between places. Where their existence is more about where you'll be next or where you were before. Do you get what I mean?"
 
 "Like an airport?" I asked, and he gave me a nod.
 
@@ -114,7 +114,7 @@ I stood up from the old, wooden bench, and approached him, barely able to form w
 
 Instinctively, and once the initial shock subsided, I pulled his arm back into the building. I inspected it to determine the damage, but his arm was now whole again.
 
-"Did that...really just happen?" I asked.
+"Did that...*really* just happen?" I asked.
 
 "Like I said: some connect more."
 
@@ -150,7 +150,7 @@ And so we did. We stayed there in that empty laundromat long into the night, lon
 
 “It’ll happen,” I told him. “One day. It’ll happen. I promise.” I reached up to wrap my hand over his. 
 
-“I want to believe that,” he said, “But I’ve not learned barely a thing from years of looking into all…this.”
+“I want to believe that,” he said, “But I’ve not learned barely a thing from years of looking into all…*this*.”
 
 “There’s always a way,” I said, “Even if I have to get bitten by a radioactive time traveler or something.”
 

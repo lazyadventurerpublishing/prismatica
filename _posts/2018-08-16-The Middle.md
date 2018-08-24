@@ -3,7 +3,7 @@ layout: post
 title: "The Middle"
 category: sci-fi
 author: Andrew Olvera
-date: 2018-08-16
+date: 2018-08-23
 ---
 
 No matter how early you arrive at an airport, your time spent there always seems spent in a haze where everything is a blur. You'll walk, or jog alongside people you'll never see again. You'll sit beside and talk amongst others, never exchanging names because it is the land of the temporary. There's a feeling you might get, a sort of disorientation, when within the confines of an airport. It's called a liminal space, where reality just feels *off*. There are others like it. Hotels late at night, parking garages, or rest stops along a highway with no sign of civilization in either direction. Liminal space is the space in between; it's in the middle of "here" and "there", betwixt point A and point B.

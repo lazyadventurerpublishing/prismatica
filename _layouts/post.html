@@ -1,19 +1,46 @@
----
-layout: default
----
-<div class="posts">
-	<h2 class="post">{{ page.title }}</h2>
-	<div class="postinfo">    
-		<p><strong>Written by:</strong> {{ page.author }}</p>
-	    <p class="meta"><i>{{ page.date | date_to_string }}</i></p>
-	</div>
+<!DOCTYPE html>
+<html>
 
-    <div class="post">
-      {{ content }}
-    </div>
+	{% include head.html %}
+
+<body>
     
-    <!-- Post comments -->
-	<div class="notecomments">
-		{% include disqus.html %}	 
+        
+	{% include header.html %}
+	{% include navigation.html %}
+	
+	<div id="wrapper">
+		<div id="postbackground">
+
+			<div id="contentwrap">
+				<div id="content">
+					<div class="posts">
+						<h2 class="post">{{ page.title }}</h2>
+						<div class="postinfo">    
+							<p><strong>Written by:</strong> {{ page.author }}</p>
+				    			<p class="meta"><i>{{ page.date | date_to_string }}</i></p>
+						</div>
+			    			<div class="post">
+			      				{{ content }}
+			    			</div>
+
+			    			<!-- Post comments -->
+						<div class="notecomments">
+							{% include disqus.html %}	 
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
 	</div>
-</div>
+	    
+	{% include footer.html %}
+	    
+              
+
+         
+    
+</body>
+</html>
+

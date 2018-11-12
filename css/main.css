@@ -168,13 +168,6 @@ body {
                         margin: 5px;
                     }
 
-                    #postwrap {
-                        width: 80%;
-                        float: left;
-                        margin-left: 10%;
-                    }
-                        
-
 /* column contents */
 
                     #leftcolumnwrap {
@@ -305,4 +298,3 @@ body {
                         width: 70%;
                         padding-left: 15%;
                     }
-

@@ -173,10 +173,3 @@ When he finally pulled away from me, we stepped back and grinned like sheepish s
 “Not goodbye,” he corrected, “How about: until next time?" 
 
 "Until next time," I repeated, and then he took his final step through the doorway. His body broke into a billion tiny flecks as he went off to his own world. It was the end of our summer together but hopefully, if the odds turned out in our favor, we might have a beginning once more.
-
-
-
-<p class="credit">Joseph Quinn Erwin, born in Albuquerque, New Mexico, is a lover of Fantasy and Science Fiction stories. Growing up, he was exposed to tales and myths from many cultures, from Norse to Native American, and this turned into a deep love and respect for the tales of other cultures. Ever since he was young, Joe has been writing stories set in numerous fantasy worlds filled with adventure, conflict, and sympathetic characters.
-</br></br>
-Joseph’s favorite pastimes besides writing include tabletop Roleplaying games of all genres, films and film-making, adventures in the forest, and reading as much as he can. He makes sure to maintain happiness in himself and those around him by encouraging these same
-hobbies.</p>

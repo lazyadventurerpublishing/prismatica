@@ -173,3 +173,8 @@ When he finally pulled away from me, we stepped back and grinned like sheepish s
 “Not goodbye,” he corrected, “How about: until next time?" 
 
 "Until next time," I repeated, and then he took his final step through the doorway. His body broke into a billion tiny flecks as he went off to his own world. It was the end of our summer together but hopefully, if the odds turned out in our favor, we might have a beginning once more.
+
+<br>
+<br>
+<p class="credit">Andrew Olvera lives in Tucson, Arizona, where he works as a teacher for special needs students. He is the co-founder of Lazy Adventurer Publishing and heads both of the press's magazines, <i>Prismatica Magazine</i> and <i>Collective Realms Magazine</i> as Editor-in-Chief and Publisher.</p>
+<p class="credit">You can find Andrew Olvera on Twitter at @AndrewTOlvera.</p>

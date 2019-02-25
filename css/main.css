@@ -27,7 +27,10 @@ body {
                         padding-left: 20px;
                         padding-right: 20px;
                     }
+                    
+                    .tab { margin-left: 40px; }
 
+                    .tab2 { margin-left: 80px; }
 
                     .termsandconditions, .credit {
                         font-size: 1em;

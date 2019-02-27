@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Middle"
-category: sci-fi
+category: shortstories
 author: Andrew Olvera
 date: 2018-08-23
 ---
